@@ -40,3 +40,7 @@ Thumbs.db
 *~
 *.bak
 *.swp
+.htaccess
+error_log
+readme.md
+
