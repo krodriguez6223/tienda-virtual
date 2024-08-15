@@ -44,3 +44,13 @@ Thumbs.db
 error_log
 readme.md
 
+Assets/css/
+Assets/js/
+Assets/images/
+Assets/fonts/
+Assets/videos/
+Assets/sounds/
+Assets/libs/
+Assets/plugins/
+Assets/uploads/
+
