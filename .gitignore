@@ -1,0 +1,5 @@
+ # Ignorar un archivo específico
+ /Assets/Images/uploadas/
+
+/config/config.php
+
