@@ -1,5 +1,42 @@
- # Ignorar un archivo específico
- /Assets/Images/uploadas/
+# Ignorar un archivo específico
+/Assets/Images/uploadas/
 
 /config/config.php
 
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias
+/node_modules/
+/vendor/
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Logs y caché
+*.log
+*.cache
+/logs/
+/cache/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos compilados
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archivos de respaldo
+*~
+*.bak
+*.swp
